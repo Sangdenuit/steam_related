@@ -1,9 +1,8 @@
-# 3 is the minimum card float value I have seen to date.
-x = 3
-a = 0
-b = 0
-
 while True:
+    # 3 is the minimum card float value I have seen to date.
+    x = 3
+    a = 0
+    b = 0   
     # y = Total card credits divided by total card float value.
     y = float(input())
     # z = Total card credits divided by total card lifetime average value.
